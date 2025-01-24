@@ -4,7 +4,7 @@ import time
 import random
 from threading import Thread
 
-TOKEN = "7771824400:AAF-sVEANobSwi93Qe7uN5Kq5ftI5bTY2QE"
+TOKEN = "7771824400:AAEbgP15U9yFOeHtHSzeqawXrXSwwShgs4I"
 CHAT_ID = "@arinalien_bot"
 bot = telebot.TeleBot(TOKEN)
 
